@@ -3,7 +3,6 @@
     margin: auto;
     width: 90%;
     height: 368px;
-    margin: 10px 10px 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,7 +12,7 @@
   
   .imagen-testimonio {
     height: 100%;
-    width: auto;
+    width: 30%;
   }
   
   .contenedor-texto-testimonio {
