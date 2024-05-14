@@ -1,9 +1,12 @@
 import './App.css';
+import { Navbar } from './components/Navbar';
 import Testimony from './components/Testimony';
 
 function App() {
   return (
     <div className="App">
+      <Navbar/>
+
       <Testimony
         image={'jesse-pinkman'}
         name={'Jesse Pinkman'}
