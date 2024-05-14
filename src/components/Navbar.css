@@ -1,0 +1,17 @@
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    background-color: rgb(2, 2, 49);
+}
+.Navbar input{
+    height: fit-content;
+}
+.Navbar-Title{
+    text-align: center;
+}
+.Buttons-Container{
+    display: flex;
+    align-items: center;
+}
